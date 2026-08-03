@@ -73,3 +73,5 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
  20. M2 screws are small enough to be screwed and not be noticed easily 
 
 
+# PCB SCHEMATICS 
+![alt text](<Screenshot 2026-08-03 235431-1.png>)
