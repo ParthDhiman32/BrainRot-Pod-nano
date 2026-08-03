@@ -20,6 +20,5 @@ after writing all the readme stuff i started to place all the components on the 
 
 Here is today's work 
 
-![alt text](<Screenshot 2026-08-03 235431-1.png>)
-
+<img width="1150" height="817" alt="image" src="https://github.com/user-attachments/assets/157f119d-f954-44c6-b3b4-3ac01a15befe" />
 
