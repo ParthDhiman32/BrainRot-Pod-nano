@@ -20,6 +20,6 @@ after writing all the readme stuff i started to place all the components on the 
 
 Here is today's work 
 
-![alt text](<Screenshot 2026-08-03 235431.png>)
+![alt text](<Screenshot 2026-08-03 235431-1.png>)
 
 
