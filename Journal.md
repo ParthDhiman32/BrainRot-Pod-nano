@@ -5,7 +5,7 @@ Description: "BrainRot_Pod_Nano is a overengineered Music player / Meme sound pl
 Created_at: "2026-8-3"
 ---
 
-# 3rd August: Setting up Brain_Rot_Pod_Nano
+# 3rd August: Setting up Brain_Rot_Pod_Nano!
 SO GUYZ this is my very first journal entry for BrainRot_Pod_Nano and i am really excited to work on this project also i might someplaces accidentally refer to BrainRot_Pod_Nano as ShitPod_Nano both mean the same thing so yeah don't get confused 
 
 Anyways so first of all today i created a github repository for BrainRot_Pod_Nano and then i added a very brief description to it 
@@ -22,3 +22,17 @@ Here is today's work
 
 <img width="1150" height="817" alt="image" src="https://github.com/user-attachments/assets/157f119d-f954-44c6-b3b4-3ac01a15befe" />
 
+
+# 4th August: Started PCB Schematics! 
+
+SSOOOO guysss today i started the pcb schematics for BrainRot Pod Nano and i am really excited to overenginner every part 
+so first of all i started by wiring up the Power Subsystem and adding passive SMD components required fot it 
+then i started to wire the subsystem and wired and organized everything as cleanely as i possibly could 
+so first of all we started by connection the 5.1kR resistors on the CC1 and CC2 of the USB-c connector....by doing this it tells the Charger to provide 5V to the USB port
+
+then i went over and added decoupling capacitors at the input and output of every IC to stablize power then i added a 4.7kR pull down resistor to the PROG pin of the TP4056 to set the charging current to 250mAh 
+and finally added LEDs and also wired up the short circuit protection circuit  
+
+overall i expect the power system to wqork flawlessly because i also rechecked every connection using gemini and it also seems to call the system perfect and it should work even with voltage fluctuations and noise 
+
+![alt text](image-1.png)
