@@ -74,4 +74,4 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
 
 
 # PCB SCHEMATICS 
-![alt text](<Screenshot 2026-08-03 235431-1.png>)
+<img width="1150" height="817" alt="image" src="https://github.com/user-attachments/assets/ee448bf1-aed0-45fb-abf4-2dd65598fd69" />
