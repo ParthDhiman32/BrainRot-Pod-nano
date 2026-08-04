@@ -22,6 +22,7 @@ Here is today's work
 
 <img width="1150" height="817" alt="image" src="https://github.com/user-attachments/assets/157f119d-f954-44c6-b3b4-3ac01a15befe" />
 
+**Total time spent ~2.5 hours (including lapse and journal)**
 
 # 4th August: Started PCB Schematics! 
 
@@ -36,3 +37,19 @@ and finally added LEDs and also wired up the short circuit protection circuit
 overall i expect the power system to wqork flawlessly because i also rechecked every connection using gemini and it also seems to call the system perfect and it should work even with voltage fluctuations and noise 
 
 ![alt text](image-1.png)
+
+Next up i will move on to the audio DAC and amplification circuitry for the speaker connection and the AUX port connections 
+
+okay so this is the schematics of the speaker subsystem 
+![alt text](image-2.png)
+The audio is handeled by the PCM5102A low ground centered DAC it recieves the digital audio streams from esp32 s3 via the I2S bus the chip had an internal negative charge pump which eliminates the need for the Bulky high power DC blocking capacitors it can automatically switch between speaker mode and AUX audio jack mode 
+
+These are the IU buttons 
+![alt text](image-3.png)
+one sleek rotatory encoder and 4 switched for navigation and one for booting up and one for aborting and sudden switch off 
+
+![alt text](image-4.png)
+This is the entire finished schematic and today's work is said to be complete now 
+
+**Total time spent ~2.5 hours (including lapse and journal)**
+
