@@ -53,7 +53,7 @@ This is the entire finished schematic and today's work is said to be complete no
 
 **Total time spent ~2.5 hours (including lapse and journal)**
 
-# 4th August: Footprint assignment and PCB routing!
+# th August: Footprint assignment and PCB routing!
 
 SSOOOO GUYYSStoday i skipped school so that i could finish off my PCB today 
 So first of all what i did was assign footprints to each and every component from resistors to the auido jack
@@ -62,3 +62,13 @@ i had a bit of problem with asigning footprints for the AudioJack because The st
 here is how the PCb looks like for now 
 ![alt text](image.png)
 and ngl this looks scary complx and it is gonna definitely take a lot of my time but i will patiently deal with this pcb and perfect it cause i am overengineering this project 
+
+Okay so shit it is 1 am of 6th august i worked like the entire day and made huge HUGE HUGE progress so i can only give a brief now so first of all i seperated all the subsystems and then perfected passibe component placement for that subsystem and after that i drew out a 110*80mm edge.cuts layer 
+
+AND THEN I MADE A DECISION First i though i will be making a 2 or 4 layer pcb BUT NO i ended up designing a 6 LAYER PCB!!!! 
+AND IT WAS NOT EASY DEFINITELY NOT EASY so after each subsystem's compoinent placement was perfected i went on to arrangeall the buttons in the POD and asked gpt for a reference ideal image and i got an image and basically there will be a cluster of bussons in the below center and a vertical 3 button array on the far right side of the POD and then i started the routing so basically i firstly added GND and 3V3 vias and then started to power first the Power Subsystem and then the Audio subsystem and then then SD card and TFT and then the ESP32 and finally the Buttons and i made Good use of All 6 layers to my advantage and the entire final schematic looks like this  well i also added my name and date of design and ofc it's name "ShitPod_Nano / BrainRot_Nano" and finally also addeda trollface to the back and here is the final thing 
+<img width="557" height="802" alt="image" src="https://github.com/user-attachments/assets/4b6c90a4-434f-4720-821d-14e43b572549" />
+
+**Total time spent ~6.1 hours (including lapse and journal)**
+
+

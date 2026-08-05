@@ -70,8 +70,43 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
 
  18. 19.  resistors and capacitors - Do i even need to explain why this is needed 
 
- 20. M2 screws are small enough to be screwed and not be noticed easily 
+ 20. M2 screws are small enough to be screwed and not be noticed easily
 
 
-# PCB SCHEMATICS 
-![alt text](image-5.png)
+# PCB Schematics
+
+## Complete Schematic
+
+<p align="center">
+  <img width="1052" alt="Complete Schematic" src="https://github.com/user-attachments/assets/e8e12aa7-618d-458a-bd11-26b736392d84"/>
+</p>
+
+---
+
+## Complete PCB
+
+### Op-Amps & Audio Circuit
+
+<p align="center">
+  <img width="426" alt="Audio Amplifier" src="https://github.com/user-attachments/assets/b457c876-4948-420e-acca-de8562314e02"/>
+</p>
+
+<p align="center">
+  <img width="1567" alt="Audio System Schematic" src="https://github.com/user-attachments/assets/4ade0fef-741f-4a1d-83b0-fd7e671f20ef"/>
+</p>
+
+---
+
+## Power System
+
+<p align="center">
+  <img width="1156" alt="Power System" src="https://github.com/user-attachments/assets/1bcf577f-b104-4161-95c2-969ad5b410ee"/>
+</p>
+
+---
+
+## ESP32 & Peripheral Connections
+
+<p align="center">
+  <img width="1251" alt="ESP32 and Peripheral Connections" src="https://github.com/user-attachments/assets/c1364b28-a919-431d-87ab-01136a201906"/>
+</p>
