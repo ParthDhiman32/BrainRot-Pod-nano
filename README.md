@@ -74,4 +74,10 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
 
 
 # PCB SCHEMATICS 
-![alt text](image-5.png)
+<img width="1052" height="764" alt="image" src="https://github.com/user-attachments/assets/e8e12aa7-618d-458a-bd11-26b736392d84" />
+<img width="426" height="581" alt="image" src="https://github.com/user-attachments/assets/b457c876-4948-420e-acca-de8562314e02" />
+<img width="1567" height="799" alt="image" src="https://github.com/user-attachments/assets/4ade0fef-741f-4a1d-83b0-fd7e671f20ef" />
+<img width="1156" height="787" alt="image" src="https://github.com/user-attachments/assets/1bcf577f-b104-4161-95c2-969ad5b410ee" />
+<img width="1251" height="785" alt="image" src="https://github.com/user-attachments/assets/c1364b28-a919-431d-87ab-01136a201906" />
+
+
