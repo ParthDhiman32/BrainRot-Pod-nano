@@ -24,7 +24,7 @@ Here is today's work
 
 **Total time spent ~2.5 hours (including lapse and journal)**
 
-# 4th August: Started PCB Schematics! 
+# 4th August: Started and finished PCB Schematics! 
 
 SSOOOO guysss today i started the pcb schematics for BrainRot Pod Nano and i am really excited to overenginner every part 
 so first of all i started by wiring up the Power Subsystem and adding passive SMD components required fot it 
@@ -53,3 +53,12 @@ This is the entire finished schematic and today's work is said to be complete no
 
 **Total time spent ~2.5 hours (including lapse and journal)**
 
+# 4th August: Footprint assignment and PCB routing!
+
+SSOOOO GUYYSStoday i skipped school so that i could finish off my PCB today 
+So first of all what i did was assign footprints to each and every component from resistors to the auido jack
+i had a bit of problem with asigning footprints for the AudioJack because The standard Kicad AudioJack has different pin assignments than the one i was going to be using in real life for this project so i had to modify the pins for the Audio Jack in the schematics for it to properly be connected in the actual PCB 
+
+here is how the PCb looks like for now 
+![alt text](image.png)
+and ngl this looks scary complx and it is gonna definitely take a lot of my time but i will patiently deal with this pcb and perfect it cause i am overengineering this project 
