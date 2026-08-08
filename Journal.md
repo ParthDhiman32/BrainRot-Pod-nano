@@ -53,7 +53,7 @@ This is the entire finished schematic and today's work is said to be complete no
 
 **Total time spent ~2.5 hours (including lapse and journal)**
 
-# th August: Footprint assignment and PCB routing!
+# 5th August: Footprint assignment and PCB routing!
 
 SSOOOO GUYYSStoday i skipped school so that i could finish off my PCB today 
 So first of all what i did was assign footprints to each and every component from resistors to the auido jack
@@ -71,4 +71,19 @@ AND IT WAS NOT EASY DEFINITELY NOT EASY so after each subsystem's compoinent pla
 
 **Total time spent ~6.1 hours (including lapse and journal)**
 
+# 6TH, 7TH, 8TH th August: CAD Design started and fininshed !
+Alright guys so these 3 days i woked purely on the CAD of my project and didn't journal because i was so engrossed in CAD design 
+
+so let me give a brief so what i did was first i exported the STEP file of the PCB and then created a plane ontu which i measured the dimensions of my PCB and then i made the walls of the enclosure around it and then i used different tools to measue specific heights mainly the inspect tool but osmehtimes i als had to make a offset sketch and then mesure the specifics on it
+
+after that i added all the switched and then buttons the 2.4" TFT dispplay and finally the speaker also ihad to downgrade from a 2.8" display to a 2.4" display because it was not fitting in the actual design but no worries the pin assignments are exactly thee same 
+
+moving on main things that i did were to measure accuractely to make the designa and then i added precise cutouts for the cherry MX switched anmd the rotary encoder and then i added a hexagonal cutout for the speaker and a cutout for the audio jack and then one for the SD card and then finally i added beutiful fillets and chamers to the design and then i added tis name "Shit Pod nano" anmd then i also added my name and finally i rendered the deisgn in FUIONSFUSION 360 and then wrapped up the entire thing and also i made the display elevated because of it's pins and yeah below is the entire cad deisgn 
+
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11" src="https://github.com/user-attachments/assets/2f08387c-c2f9-4fce-83af-306792c12d37" />
+
+
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11 V2" src="https://github.com/user-attachments/assets/60597a4a-66a4-4465-8719-20b09f18ee6b" />
+
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11 V3" src="https://github.com/user-attachments/assets/201f3b70-2e1c-462b-ab82-8e9a642ee378" />
 
