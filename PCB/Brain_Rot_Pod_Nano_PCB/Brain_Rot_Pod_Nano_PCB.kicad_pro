@@ -517,7 +517,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../PCB_STEP_File/Brain_Rot_Pod_Nano_PCB.step",
       "svg": "",
       "vrml": ""
     },
