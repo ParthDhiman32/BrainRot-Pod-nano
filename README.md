@@ -110,3 +110,11 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
 <p align="center">
   <img width="1251" alt="ESP32 and Peripheral Connections" src="https://github.com/user-attachments/assets/c1364b28-a919-431d-87ab-01136a201906"/>
 </p>
+
+# CAD DESIGN 
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11" src="https://github.com/user-attachments/assets/dafb6c94-1a0f-472f-9377-422ec5d3b662" />
+
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11 V2" src="https://github.com/user-attachments/assets/0c3ac997-7222-4533-b176-f05aabd56887" />
+
+<img width="1920" height="631" alt="BrainRot_Pod_Nano_PCB_assembly v11 V3" src="https://github.com/user-attachments/assets/aa9a9872-7c2c-4d2d-8531-9632df669f40" />
+
