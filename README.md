@@ -122,28 +122,28 @@ I want to mantain a sleek design like how apple iPODs used to be like and also m
 
 | # | Component | Qty | Estimated Unit Cost | Estimated Total |
 |---|---|---:|---:|---:|
-| 1 | ESP32-S3-WROOM-1, 8MB PSRAM | 1 | ₹350 | ₹350 |
-| 2 | PCM5102A Audio DAC | 1 | ₹120 | ₹120 |
-| 3 | MAX98357A Class-D Audio Amplifier | 1 | ₹100 | ₹100 |
-| 4 | TP4056 Li-Po Charger IC | 1 | ₹15 | ₹15 |
-| 5 | DW01A Battery Protection IC | 1 | ₹10 | ₹10 |
-| 6 | FS8205A / FS83205A Battery Protection MOSFET | 1 | ₹10 | ₹10 |
-| 7 | ME6211 / AP2112K 3.3V LDO | 1 | ₹15 | ₹15 |
-| 8 | AO3400 Backlight MOSFET | 1 | ₹8 | ₹8 |
-| 9 | 1.54" SPI TFT Display | 1 | ₹250 | ₹250 |
-| 10 | 3.7V 1100mAh Li-Po Battery | 1 | ₹300 | ₹300 |
-| 11 | 3W 4Ω Dynamic Speaker | 1 | ₹100 | ₹100 |
-| 12 | SMD Rotary Encoder | 1 | ₹40 | ₹40 |
-| 13 | SMD Tactile Buttons | ~6 | ₹5 | ₹30 |
-| 14 | USB-C 16-Pin Receptacle | 1 | ₹20 | ₹20 |
-| 15 | PJ-320A 3.5mm Stereo Audio Jack | 1 | ₹20 | ₹20 |
-| 16 | Push-Pull SD Card Socket | 1 | ₹40 | ₹40 |
-| 17 | JST Battery Connector | 1 | ₹15 | ₹15 |
-| 18 | Resistors | ~20–30 | — | ₹30 |
-| 19 | Capacitors | ~20–30 | — | ₹60 |
-| 20 | Misc. Diodes / LEDs / Small Components | — | — | ₹30 |
-| 21 | M2 Screws + Mechanical Hardware | — | — | ₹50 |
-| | **TOTAL ROUGH BOM ESTIMATE** | | | **≈ ₹1,620** |
-| | **Recommended Budget Range** | | | **₹1,600–₹1,900** |
+| 1 | ESP32-S3-WROOM-1, 8MB PSRAM | 1 | $3.70 | $3.70 |
+| 2 | PCM5102A Audio DAC | 1 | $1.25 | $1.25 |
+| 3 | MAX98357A Class-D Audio Amplifier | 1 | $1.05 | $1.05 |
+| 4 | TP4056 Li-Po Charger IC | 1 | $0.16 | $0.16 |
+| 5 | DW01A Battery Protection IC | 1 | $0.11 | $0.11 |
+| 6 | FS8205A / FS83205A Battery Protection MOSFET | 1 | $0.11 | $0.11 |
+| 7 | ME6211 / AP2112K 3.3V LDO | 1 | $0.16 | $0.16 |
+| 8 | AO3400 Backlight MOSFET | 1 | $0.08 | $0.08 |
+| 9 | 1.54" SPI TFT Display | 1 | $2.63 | $2.63 |
+| 10 | 3.7V 1100mAh Li-Po Battery | 1 | $3.15 | $3.15 |
+| 11 | 3W 4Ω Dynamic Speaker | 1 | $1.05 | $1.05 |
+| 12 | SMD Rotary Encoder | 1 | $0.42 | $0.42 |
+| 13 | SMD Tactile Buttons | ~6 | $0.05 | $0.32 |
+| 14 | USB-C 16-Pin Receptacle | 1 | $0.21 | $0.21 |
+| 15 | PJ-320A 3.5mm Stereo Audio Jack | 1 | $0.21 | $0.21 |
+| 16 | Push-Pull SD Card Socket | 1 | $0.42 | $0.42 |
+| 17 | JST Battery Connector | 1 | $0.16 | $0.16 |
+| 18 | Resistors | ~20–30 | — | $0.32 |
+| 19 | Capacitors | ~20–30 | — | $0.63 |
+| 20 | Misc. Diodes / LEDs / Small Components | — | — | $0.32 |
+| 21 | M2 Screws + Mechanical Hardware | — | — | $0.53 |
+| | **TOTAL ROUGH BOM ESTIMATE** | | | **≈ $17.01** |
+| | **Recommended Budget Range** | | | **$17–$20** |
 
 > **Note:** This is a rough prototype estimate. Actual prices may vary depending on the supplier, exact MPNs, quantity, shipping, and taxes. PCB manufacturing, assembly, and 3D-printing costs are **not included**.
